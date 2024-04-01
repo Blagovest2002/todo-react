@@ -3,7 +3,7 @@ name: deploy app to AWS
 on:
   push:
     branches:
-      - "todo-react-app"
+      - "todo-react-app" 
 
 jobs:
   build:
